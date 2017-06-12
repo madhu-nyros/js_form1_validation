@@ -1,0 +1,18 @@
+label{
+	font-size: 20px;
+}
+.panel{
+	margin: 100px 200px 0 200px;
+}
+.container{
+    margin-top: 30px;
+    margin-left: 230px;
+    padding: 30px;
+}
+span{
+    padding-left: 250px;
+    font-size: 25px;
+}
+.well{
+    padding-left:240px;
+}
